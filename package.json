@@ -12,12 +12,7 @@
     "type": "git",
     "url": "git://github.com/Medium/phantomjs.git"
   },
-  "licenses": [
-    {
-      "type": "Apache-2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
-    }
-  ],
+  "license": "Apache-2.0",
   "author": {
     "name": "Dan Pupius",
     "email": "dan@obvious.com",
@@ -40,9 +35,9 @@
   },
   "dependencies": {
     "adm-zip": "0.4.4",
-    "fs-extra": "~0.16.0",
+    "fs-extra": "~0.18",
     "kew": "0.4.0",
-    "npmconf": "2.0.9",
+    "npmconf": "2.1.1",
     "progress": "1.1.8",
     "request": "2.42.0",
     "request-progress": "0.3.1",
